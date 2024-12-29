@@ -1,3 +1,7 @@
+/*
+  COPY ALL OF THIS CODE INTO THE JS TAB IN STREAMLABS
+*/
+
 // Please use event listeners to run functions.
 document.addEventListener('onLoad', (obj) => {
     // obj will be empty for event list
